@@ -1,0 +1,22 @@
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\bin\Debug\WFAHesapMakinesi.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\Ödev vb\WFAHesapMakinesi\WFAHesapMakinesi\obj\Debug\WFAHesapMakinesi.pdb
